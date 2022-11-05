@@ -38,17 +38,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=PedroHenriqueRay" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=PedroHenriqueRay" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=PedroHenriqueRay" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img align="left" height="180" src="https://regal-sunflower-f9005c.netlify.app/6c81da0586b3249e5842c29afc4ea2b5.jpg"  />
-
-###
-
-<img align="right" height="177" src="https://regal-sunflower-f9005c.netlify.app/QrCode.png"  />
