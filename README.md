@@ -20,7 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-</div>
+</div> 
+
 
 ###
 
@@ -31,7 +32,7 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-b80784176/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://linktr.ee/pedrohenriquepontes" target="_blank">
+  <a href="https://linktr.ee/pedrohenriqueRay" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
