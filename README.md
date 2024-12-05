@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C#, Unity, HTML, CSS, MAYA, Photoshop<br>🎯 Goals: Working with Game Developer</h2>
+<h2 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C#, Unity, HTML, CSS, MAYA, Photoshop, Houdini<br>🎯 Goals: Becoming a better TechArtist</h2>
 
 ###
 
