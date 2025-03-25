@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img align="center" height="200" src="https://i.gifer.com/1dBf.gif"  />
+<img align="right" height="200" src="https://i.gifer.com/1dBf.gif"  />
 
 ###
